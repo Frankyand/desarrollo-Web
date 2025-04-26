@@ -6,12 +6,8 @@
     $_SESSION['usuario'] = "diana";
     $_SESSION['rol']= "docente";
 
-    echo "sesion iniciada"<br>;
+    echo "sesion iniciada"."<br>";
 
-    echo "<a href= 'bienbenida.php'> Ir a la pagina de bienvenida</a>"; 
-    echo"hola"
-    echo"frank"
-    
-
+    echo "<a href= 'bienvenida.php'> Ir a la pagina de bienvenida</a>"; 
 
 ?>
