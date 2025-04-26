@@ -3,7 +3,7 @@
 
     //suponer que el usuario se autentico 
 
-    $_SESSION['usuario'] = "diana";
+    $_SESSION['usuario'] = "Frank";
     $_SESSION['rol']= "docente";
 
     echo "sesion iniciada"."<br>";
